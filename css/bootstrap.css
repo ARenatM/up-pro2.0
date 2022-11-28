@@ -11026,3 +11026,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 12px 0;
+}
