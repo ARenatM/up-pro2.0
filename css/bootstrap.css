@@ -11032,3 +11032,29 @@ textarea.form-control-lg {
   display: flex;
   padding: 12px 0;
 }
+
+.promo .col-1,
+.promo .col-2,
+.promo .col-3,
+.promo .col-4,
+.promo .col-5,
+.promo .col-6,
+.promo .col-7,
+.promo .col-8,
+.promo .col-9,
+.promo .col-10,
+.promo .col-11,
+.promo .col-12 {
+  padding: 0 6px 0;
+}
+.promo img {
+  height: 100%;
+}
+.promo-main-wrapper {
+  height: 100%;
+}
+.promo-wrapper {
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
